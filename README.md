@@ -43,4 +43,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayBerezhnoy&theme=solarized_dark)
 
-<img src="https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg" alt="описание изображения">
+<img src="https://raw.githubusercontent.com/NikolayBerezhnoy/terminal-style/fb6588c4dcbc80c672cb6997d94ca8fbf245d15e/github_stats.svg" alt="описание изображения">
