@@ -29,6 +29,10 @@
 
 ## 👾  What I am interested in learning at some point
 [<img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity" title="Unity" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="html" title="html" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="css" title="css" height="25" />][tech_tools_anchor]
 
 ## 🔍  Where to find me
 
