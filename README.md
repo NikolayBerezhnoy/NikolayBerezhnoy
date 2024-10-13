@@ -17,9 +17,9 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3178C6" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=#00878F" alt="Arduino logo" title="Arduino" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
