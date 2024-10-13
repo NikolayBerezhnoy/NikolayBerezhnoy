@@ -7,9 +7,6 @@
 <p>- 📫 How to reach me: <a href="mailto:bernikolay09@gmail.com">mail</a></p>
 <p>- ⚡ Portfolio: ...</p>
 <img height="25" width="25" src="https://cdn.simpleicons.org/arduino/white" />
-<img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus/white" />
-<img height="20" width="20" src="https://cdn.simpleicons.org/pycharm/white" />
-<img height="20" width="20" src="https://cdn.simpleicons.org/sharp/white" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=solarized_dark)
