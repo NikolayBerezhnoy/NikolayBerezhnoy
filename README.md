@@ -1,13 +1,3 @@
-<style>
-img {
-  color: #1111;
-}
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
-
 <h1 align="left">Hi there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -17,5 +7,5 @@ h1 {
 <p>- 📫 How to reach me: <a href="mailto:bernikolay09@gmail.com">mail</a></p>
 <p>- ⚡ Portfolio: ...</p>
 
-<img height="32" width="32" src="https://simpleicons.org/icons/arduino.svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[arduino]/[white]" />
 
