@@ -10,3 +10,7 @@
 <img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus/white"/>
 <img height="20" width="20" src="https://cdn.simpleicons.org/pycharm/white"/>
 <img height="20" width="20" src="https://cdn.simpleicons.org/sharp/white"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
