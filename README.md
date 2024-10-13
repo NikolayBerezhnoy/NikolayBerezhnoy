@@ -36,7 +36,7 @@
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=26A5E4" alt="tg logo" title="tg" height="25" />]([https://stackoverflow.com/users/10927329/valentin-briand](https://t.me/nikolay9444))
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=26A5E4" alt="tg logo" title="tg" height="25" />]([https://t.me/nikolay9444])
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
