@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<h3 align="left">- 🌱 I’m currently learning python, c#/c++</h3>
-<h3 align="left">- 📫 How to reach me: m<a href="mailto:bernikolay09@gmail.com">mail</a></h3>
-<h3 align="left">- ⚡ Portfolio: ...</h3>
+<h5 align="left">- 🌱 I’m currently learning python, c#/c++</h5>
+<h5 align="left">- 📫 How to reach me: m<a href="mailto:bernikolay09@gmail.com">mail</a></h5>
+<h5 align="left">- ⚡ Portfolio: ...</h5>
 <!--
 **NikolayBerezhnoy/NikolayBerezhnoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
