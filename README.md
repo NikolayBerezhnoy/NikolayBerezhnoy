@@ -2,7 +2,6 @@
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="👋" height="32"/></h1>-->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I`m+a+junior+developer;student+from+Moscow)](https://git.io/typing-svg)
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -33,6 +32,6 @@
 [learning_next_anchor]: #learning-next
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayBerezhnoy&theme=gruvbox)
