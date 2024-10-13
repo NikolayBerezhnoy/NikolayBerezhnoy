@@ -33,6 +33,6 @@
 [learning_next_anchor]: #learning-next
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayBerezhnoy&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayBerezhnoy&theme=radical)
