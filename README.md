@@ -19,7 +19,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/C-sharp-282C34?logo=sharp&logoColor=5C6AC4" alt="C#" title="C#" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/C_sharp-282C34?logo=sharp&logoColor=5C6AC4" alt="C#" title="C#" height="25" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
