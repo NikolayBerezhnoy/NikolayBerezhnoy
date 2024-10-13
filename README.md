@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="👋" height="32"/></h1>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I`m+a+junior+developer;student+from+Moscow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+world;Hello+world!)](https://git.io/typing-svg)
 
 ## 🛠  Technologies and tools
 
