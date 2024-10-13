@@ -8,3 +8,4 @@
 <p>- ⚡ Portfolio: ...</p>
 
 <img height="32" width="32" src="https://simpleicons.org/icons/arduino.svg" />
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
