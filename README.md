@@ -7,5 +7,6 @@
 <p>- 📫 How to reach me: <a href="mailto:bernikolay09@gmail.com">mail</a></p>
 <p>- ⚡ Portfolio: ...</p><br />
 
-<img height="20" width="20" src="https://cdn.simpleicons.org/pycharm/white"/>    <img height="35" width="35" src="https://cdn.simpleicons.org/arduino/white"/>
-<img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus/white"/>    <img height="20" width="20" src="https://cdn.simpleicons.org/sharp/white"/>
+<img height="25" width="25" src="https://cdn.simpleicons.org/arduino/white"/><img height="20" width="20" src="https://cdn.simpleicons.org/cplusplus/white"/><br />  
+<img height="20" width="20" src="https://cdn.simpleicons.org/pycharm/white"/><img height="20" width="20" src="https://cdn.simpleicons.org/sharp/white"/><br />   
+
