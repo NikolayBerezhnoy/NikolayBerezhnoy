@@ -17,7 +17,7 @@
 
 <a name="learning-now"></a>
 
-[<img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3178C6" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 
