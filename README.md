@@ -32,6 +32,5 @@
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayBerezhnoy&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=tokyonight)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayBerezhnoy&theme=tokyonight)
