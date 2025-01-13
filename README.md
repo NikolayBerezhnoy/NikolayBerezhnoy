@@ -9,7 +9,7 @@
 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-![Static Badge](https://img.shields.io/badge/MCU-black?style=plastic&color=282C34)[tech_tools_anchor]
+![Static Badge](https://img.shields.io/badge/MCU-black?style=plastic&color=282C34)
 &nbsp;
 [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
