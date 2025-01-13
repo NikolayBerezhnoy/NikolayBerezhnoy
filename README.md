@@ -9,7 +9,7 @@
 
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00878F" alt="Arduino logo" title="Arduino" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Arduino-282C34?logo=arduino&logoColor=00878F" alt="Arduino logo" title="MCU" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++" title="C++" height="25" />][tech_tools_anchor]
 &nbsp;
