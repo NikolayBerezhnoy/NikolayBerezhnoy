@@ -1,7 +1,7 @@
 <!--<h1 align="left">Hi there-->
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="👋" height="32"/></h1>-->
 
-(https://sourcecraft.dev/users/nnberezhnoy/overview)
+SOURCECRAFT: https://sourcecraft.dev/users/nnberezhnoy/overview
 
 ## 🔍  Where to find me
 
