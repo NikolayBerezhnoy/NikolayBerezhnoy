@@ -1,7 +1,7 @@
 <!--<h1 align="left">Hi there-->
 <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="👋" height="32"/></h1>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there;Hi+there!)](https://git.io/typing-svg)
+(https://sourcecraft.dev/users/nnberezhnoy/overview)
 
 ## 🔍  Where to find me
 
